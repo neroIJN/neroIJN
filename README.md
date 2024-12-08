@@ -1,4 +1,4 @@
-![Diagram](Clean-Modern-Personal-LinkedIn-Banner.png)
+![Diagram](Clean_Modern_Personal_LinkedIn_Banner.png)
 
 👋 Hi, I’m @neroIJN!
 
