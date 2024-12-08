@@ -1,4 +1,4 @@
-![Diagram](assets/Clean Modern Personal LinkedIn Banner.png)
+![Diagram](Clean-Modern-Personal-LinkedIn-Banner.png)
 
 👋 Hi, I’m @neroIJN!
 
