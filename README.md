@@ -1,13 +1,20 @@
 ![Diagram](Clean_Modern_Personal_LinkedIn_Banner.png)
 
-👋 Hi, I’m @neroIJN!
+👋 Hi, I’m @itznero
 
-👀 I’m interested in web development, AI/ML, and building interactive experiences. I enjoy coding in C++, Java, JavaScript, TypeScript, Python, and more.
-🌱 I’m currently learning Next.js, Tailwind CSS, and enhancing my skills in AI/ML for predictive tasks.
-💞️ I’m looking to collaborate on web development projects, AI/ML model building, and game development.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+# MERN Authentication Backend 🚀
+
+## Project Overview
+This project demonstrates authentication for a MERN stack application. Below is a visual representation of the backend:
+
+[![Auth Backend](./Auth_Backend.jpg)](https://github.com/neroIJN/MERN-Authentication/tree/main)
+
+Click on the image above to explore the repository!
+
+
+
+
 
 <!---
 neroIJN/neroIJN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
