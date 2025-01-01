@@ -9,7 +9,7 @@
 This project demonstrates authentication for a MERN stack application. Below is a visual representation of the backend:
 
 <a href="https://github.com/neroIJN/MERN-Authentication/tree/main">
-    <img src="https://raw.githubusercontent.com/neroIJN/MERN-Authentication/main/Auth_Backend.jpg" alt="Auth Backend" width="500">
+    <img src="https://raw.githubusercontent.com/neroIJN/MERN-Authentication/main/Auth_Backend.jpg" alt="Auth Backend" width="400">
 </a>
 
 Click on the image above to explore the repository
