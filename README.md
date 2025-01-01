@@ -5,6 +5,14 @@
 
 # MERN Authentication Backend 🚀
 
+## Project Overview
+This project demonstrates authentication for a MERN stack application. Below is a visual representation of the backend:
+
+[![Auth Backend](https://raw.githubusercontent.com/neroIJN/MERN-Authentication/main/Auth_Backend.jpg)](https://github.com/neroIJN/MERN-Authentication/tree/main)
+
+
+Click on the image above to explore the repository!
+
 
 
 
