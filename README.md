@@ -1,7 +1,7 @@
 ![Diagram](Clean_Modern_Personal_LinkedIn_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Janith Niroshan</h1>
-<h3 align="center">Aspiring Full-Stack Developer 💻 | Building Websites 🌐, Crafting AI & ML Models 🤖 | Gamer 🎮 | Driven by a Passion for Learning 📚, Creativity 🎨, and Innovation 💡!</h3>
+<h3 align="center">Digital Architect 🏗️ | Code Alchemist 🧙‍♂️ | Turning Pixels into Possibilities 🎮✨ | Juggling Code, Creativity, and Coffee ☕ | Always Seeking the Next Hack in the Matrix 💻🕶️ | Explorer of AI & ML Dimensions 🚀!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neroijn&label=Profile%20views&color=0e75b6&style=flat" alt="neroijn" /> </p>
 
