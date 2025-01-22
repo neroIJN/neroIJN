@@ -1,7 +1,7 @@
 ![Diagram](Clean_Modern_Personal_LinkedIn_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Janith Niroshan</h1>
-<h3 align="center">Digital Architect 🏗️ | Code Alchemist 🧙‍♂️ | Turning Pixels into Possibilities 🎮✨ | Juggling Code, Creativity, and Coffee ☕ | Always Seeking the Next Hack in the Matrix 💻🕶️ | Explorer of AI & ML Dimensions 🚀!</h3>
+<h3 align="center">Digital Architect 🏰 | Code Alchemist 🧙‍♂️ | Turning Pixels into Possibilities 🎮✨ | Juggling Code, Creativity, and Coffee ☕ | Always Seeking the Next Hack in the Matrix 💻🔶️ | Explorer of AI & ML Dimensions 🚀!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neroijn&label=Profile%20views&color=0e75b6&style=flat" alt="neroijn" /> </p>
 
@@ -59,31 +59,16 @@
   </a>
 </p>
 
+---
 
+<h3 align="left">My Collaborative Works and Contributions:</h3>
+<ul>
+  <li>💯 POS System (<a href="https://github.com/neroIJN/POS">GitHub Link</a>)</li>
+  <li>💯 Learning App (<a href="https://github.com/NirangaNiluminda/NewLearningApp">GitHub Link</a>)</li>
+</ul>
 
-
-
-
-
-
-
-
-
-<!---
-neroIJN/neroIJN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-# MERN Authentication Backend 🚀
-
-## Project Overview
-This project demonstrates authentication for a MERN stack application. Below is a visual representation of the backend:
-
-<a href="https://github.com/neroIJN/MERN-Authentication/tree/main">
-    <img src="https://raw.githubusercontent.com/neroIJN/MERN-Authentication/main/Auth_Backend.jpg" alt="Auth Backend" width="400">
-</a> 
-
-
-
-
-
-Click on the image above to explore the repository
+<h3 align="left">Currently Learning:</h3>
+<ul>
+  <li>🔯 CI/CD with AWS</li>
+</ul>
 
