@@ -61,7 +61,7 @@
 
 ---
 
-<h3 align="left">My Collaborative Works and Contributions:</h3>
+<h3 align="left">My Collaborative Works :</h3>
 <ul>
   <li>💯 POS System (<a href="https://github.com/neroIJN/POS">GitHub Link</a>)</li>
   <li>💯 Learning App (<a href="https://github.com/NirangaNiluminda/NewLearningApp">GitHub Link</a>)</li>
