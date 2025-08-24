@@ -111,7 +111,7 @@ const janith: DigitalArchitect = {
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=neroIJN&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=neroIJN&theme=react&border_radius=10"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=neroIJN&show_icons=true&theme=react&rank_icon=github&border_radius=10&include_all_commits=true" alt="additional stats" />
 </div>
 
 <br/>
@@ -278,11 +278,17 @@ CSS/SCSS     ████████████░░░░░░░░░░�
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **GITHUB CONTRIBUTION SNAKE**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **CONTRIBUTION HEATMAP**
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/neroIJN/neroIJN/output/github-contribution-grid-snake-dark.svg)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neroIJN&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+  ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=neroIJN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
