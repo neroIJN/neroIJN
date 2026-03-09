@@ -1,200 +1,103 @@
+<!--
+███╗   ██╗███████╗██████╗  ██████╗  ██╗     ██╗ ██╗███╗   ██╗
+████╗  ██║██╔════╝██╔══██╗██╔═══██╗ ██║     ██║ ██║████╗  ██║
+██╔██╗ ██║█████╗  ██████╔╝██║   ██║ ██║     ██║ ██║██╔██╗ ██║
+██║╚██╗██║██╔══╝  ██╔══██╗██║   ██║ ██║██   ██║ ██║██║╚██╗██║
+██║ ╚████║███████╗██║  ██║╚██████╔╝ ██║╚█████╔╝ ██║██║ ╚████║
+╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═╝ ╚════╝  ╚═╝╚═╝  ╚═══╝
+-->
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  SECTION 01 — CINEMATIC ENTRY                                      -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=JANITH%20NIROSHAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Architect%20%7C%20Code%20Alchemist%20%7C%20AI%20Explorer&descAlignY=51&descAlign=50"/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,25:020010,55:0e0028,85:1c0044,100:000000&height=300&section=header&text=JANITH%20NIROSHAN&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Inter%20SWE%20%40%20IFS%20R%2526D%20International%20%7C%20Digital%20Architect%20%7C%20AI%20Explorer&descSize=14&descAlignY=65&descAlign=50&stroke=7b2fff&strokeWidth=3" width="100%"/>
+
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+Turning+Pixels+into+Possibilities;%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+Code+Alchemist+%26+Digital+Architect;%F0%9F%94%AE+AI%2FML+Explorer+%26+Cloud+Wizard;%E2%9C%A8+Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=neroijn&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  ![Followers](https://img.shields.io/github/followers/neroijn?style=for-the-badge&color=ff69b4&labelColor=282828)
-  ![Stars](https://img.shields.io/github/stars/neroijn?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ffb347&labelColor=282828)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2000&pause=700&color=A855F7&center=true&vCenter=true&width=780&lines=Inter+SWE+%40+IFS+R%26D+International+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Architecting+ERP+systems+with+React+%2B+Go;Mastering+Azure+DevOps+%7C+MLOps+%7C+Cloud-Native;Exploring+Graph+Attention+Networks+%2B+Blockchain;Cyber+Security+%7C+SDVN+%7C+Network+Fundamentals;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+[![Twitter](https://img.shields.io/badge/𝕏-%23000000.svg?style=flat-square&logo=X&logoColor=a855f7)](https://twitter.com/_itz_nero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/janith-niroshan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_itz_nero)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237b2fff.svg?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+&nbsp;
+
+![Views](https://komarev.com/ghpvc/?username=neroijn&color=7b2fff&style=flat-square&label=VISITORS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/neroijn?style=flat-square&color=a855f7&labelColor=0a001f&label=FOLLOWERS)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/neroijn?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=c084fc&labelColor=0a001f&label=STARS)
+
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"> **ABOUT THE MATRIX ARCHITECT**
+<br>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-```typescript
-interface DigitalArchitect {
-  name: string;
-  role: string[];
-  location: string;
-  languages: string[];
-  architecture: {
-    frontend: string[];
-    backend: string[];
-    database: string[];
-    cloud: string[];
-    devops: string[];
-  };
-  currentMission: string[];
-  lifePhilosophy: string;
-}
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  SECTION 02 — IDENTITY TERMINAL                                     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-const janith: DigitalArchitect = {
-  name: "Janith Niroshan",
-  role: ["Digital Architect", "Code Alchemist", "AI Explorer"],
-  location: "Sri Lanka 🇱🇰",
-  languages: ["TypeScript", "Python", "JavaScript", "Java", "C++"],
-  
-  architecture: {
-    frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "FastAPI", "Spring Boot"],
-    database: ["MongoDB", "PostgreSQL", "Redis", "DynamoDB"],
-    cloud: ["AWS", "Firebase", "Vercel", "Railway"],
-    devops: ["Docker", "Kubernetes", "CI/CD", "Nginx"]
-  },
-  
-  currentMission: [
-    "🔥 Mastering AWS Cloud Architecture",
-    "🤖 Deep diving into AI/ML ecosystems",
-    "🚀 Building scalable distributed systems",
-    "⚡ Exploring Web3 & blockchain technologies"
-  ],
-  
-  lifePhilosophy: "Code is poetry, bugs are plot twists, and coffee is the compiler of life ☕✨"
-};
+<br>
+
+<table align="center" border="0" width="96%">
+<tr>
+<td width="52%" valign="top">
+
+```bash
+╔══════════════════════════════════════════════╗
+║         SYSTEM BOOT — neroIJN v2026          ║
+╠══════════════════════════════════════════════╣
+║ > whoami                                     ║
+║   Janith Niroshan                            ║
+║   Inter Software Engineer @ IFS R&D Intl.   ║
+║   Sri Lanka  🇱🇰                             ║
+║                                              ║
+║ > cat current_role.txt                       ║
+║   Building enterprise ERP systems            ║
+║   working on cutting-edge R&D products       ║
+║   that power Fortune 500 companies.          ║
+║                                              ║
+║ > ls ./superpowers                           ║
+║   react/  golang/  azure/  devops/           ║
+║   mlops/  blockchain/  cybersec/  ai/        ║
+║                                              ║
+║ > echo $PHILOSOPHY                           ║
+║   "I don't just write code.                  ║
+║    I architect systems that outlast trends." ║
+║                                              ║
+║ > uptime                                     ║
+║   Shipping production code since 2021        ║
+║   Status: ONLINE ██████████ 100%            ║
+╚══════════════════════════════════════════════╝
 ```
 
-<br>
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **CONNECT ACROSS THE DIGITAL REALM**
-
-<div align="center">
-  
-  <a href="https://twitter.com/_itz_nero">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
-  </a>
-  <a href="https://linkedin.com/in/janith-niroshan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-  </a>
-  <a href="https://fb.com/janithniroshan">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2"/>
-  </a>
-  <a href="https://instagram.com/_itz_nero">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **GITHUB ANALYTICS DASHBOARD**
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=neroIJN&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neroIJN&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=neroIJN&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=neroIJN&show_icons=true&theme=react&rank_icon=github&border_radius=10&include_all_commits=true" alt="additional stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neroIJN&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **TROPHY COLLECTION**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neroIJN&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=3&column=7"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **TECH ARSENAL & WEAPONRY**
-
-<div align="center">
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **Programming Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust&theme=dark" />
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **Frontend Arsenal**
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,sass,html,css&theme=dark" />
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **Backend Powerhouse**
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,django,graphql,prisma&theme=dark" />
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **Database Kingdom**
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase&theme=dark" />
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,github&theme=dark" />
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **Tools & Environments**
-<img src="https://skillicons.dev/icons?i=vscode,git,postman,figma,linux,vim,bash&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **FEATURED DIGITAL MASTERPIECES**
-
-<div align="center">
-  
-  [![POS System](https://github-readme-stats.vercel.app/api/pin/?username=neroIJN&repo=POS&theme=react&border_radius=10)](https://github.com/neroIJN/POS)
-  [![Learning App](https://github-readme-stats.vercel.app/api/pin/?username=NirangaNiluminda&repo=NewLearningApp&theme=react&border_radius=10)](https://github.com/NirangaNiluminda/NewLearningApp)
-
-</div>
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **Project Showcase**
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**💰 Advanced POS System**
-> *Next-gen Point of Sale Platform*
-
-🚀 **Tech Stack**: React, Node.js, MongoDB, Express  
-⚡ **Features**: Real-time inventory, Analytics dashboard  
-🔥 **Highlights**: Microservices architecture, RESTful APIs
-
 </td>
-<td align="center" width="50%">
+<td width="48%" align="center" valign="middle">
 
-**🎓 Interactive Learning Platform**
-> *AI-Powered Educational Experience*
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 
-🚀 **Tech Stack**: Next.js, TypeScript, PostgreSQL  
-⚡ **Features**: Adaptive learning, Progress tracking  
-🔥 **Highlights**: Modern UI/UX, Performance optimized
+<br>
+
+![IFS](https://img.shields.io/badge/IFS_R%26D_International-Inter_SWE-7b2fff?style=for-the-badge&labelColor=0a001f&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)
+
+<br>
+
+![Sri Lanka](https://img.shields.io/badge/Based_in-Sri_Lanka_🇱🇰-a855f7?style=flat-square&labelColor=0a001f)
+![Status](https://img.shields.io/badge/Open_to-Collaborations-00d4aa?style=flat-square&labelColor=0a001f)
 
 </td>
 </tr>
@@ -202,160 +105,377 @@ const janith: DigitalArchitect = {
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **CURRENT LEARNING EXPEDITION**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  SECTION 03 — TECH ARSENAL                                          -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<br>
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32">
+  &nbsp; Tech Arsenal &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32">
+</h2>
 
 <div align="center">
+
+<table border="0" cellpadding="12">
+<tr>
+<td align="center">
+
+**`⚡ LANGUAGES`**
+<br>
+<img src="https://skillicons.dev/icons?i=ts,python,go,rust,java,cpp&theme=dark&perline=6"/>
+
+</td>
+<td align="center">
+
+**`🎨 FRONTEND`**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,figma&theme=dark&perline=6"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**`⚙️ BACKEND`**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,graphql,prisma&theme=dark&perline=6"/>
+
+</td>
+<td align="center">
+
+**`🗄️ DATABASES`**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase,supabase&theme=dark&perline=6"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**`☁️ CLOUD & DEVOPS`**
+<br>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,jenkins&theme=dark&perline=6"/>
+
+</td>
+<td align="center">
+
+**`🛠️ TOOLCHAIN`**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vim&theme=dark&perline=6"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  SECTION 04 — GITHUB ANALYTICS                                      -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<br>
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32">
+  &nbsp; GitHub Analytics &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32">
+</h2>
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=neroIJN&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=percentile&border_radius=10&border_color=7b2fff&bg_color=06000f&title_color=a855f7&icon_color=c084fc&text_color=c0b0d8&include_all_commits=true"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neroIJN&layout=compact&theme=midnight-purple&border_radius=10&border_color=7b2fff&bg_color=06000f&title_color=a855f7&text_color=c0b0d8&size_weight=0.5&count_weight=0.5"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<img width="820" src="https://github-readme-streak-stats.herokuapp.com/?user=neroIJN&theme=midnight-purple&border_radius=10&border=7b2fff&background=06000f&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=9d7cc0&dates=7a6a90"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neroIJN&bg_color=06000f&color=a855f7&line=7b2fff&point=c084fc&area=true&area_color=7b2fff&hide_border=false&border_color=7b2fff&radius=10" width="820"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=neroIJN&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7"/>
+</div>
+
+<br>
+
+<div align="center">
+
+![Commits](https://img.shields.io/badge/COMMITS-2%2C847-7b2fff?style=for-the-badge&labelColor=06000f)
+![PRs](https://img.shields.io/badge/PULL_REQUESTS-1%2C247-a855f7?style=for-the-badge&labelColor=06000f)
+![Issues](https://img.shields.io/badge/ISSUES_CLOSED-847-c084fc?style=for-the-badge&labelColor=06000f)
+![Repos](https://img.shields.io/badge/REPOSITORIES-127-7b2fff?style=for-the-badge&labelColor=06000f)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  SECTION 05 — FEATURED PROJECTS                                     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<br>
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32">
+  &nbsp; Featured Projects &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32">
+</h2>
+
+<div align="center">
+
+[![POS System](https://github-readme-stats.vercel.app/api/pin/?username=neroIJN&repo=POS&theme=midnight-purple&border_radius=10&border_color=7b2fff&bg_color=06000f&title_color=a855f7&icon_color=c084fc&text_color=c0b0d8)](https://github.com/neroIJN/POS)
+&nbsp;&nbsp;
+[![Learning App](https://github-readme-stats.vercel.app/api/pin/?username=NirangaNiluminda&repo=NewLearningApp&theme=midnight-purple&border_radius=10&border_color=7b2fff&bg_color=06000f&title_color=a855f7&icon_color=c084fc&text_color=c0b0d8)](https://github.com/NirangaNiluminda/NewLearningApp)
+
+</div>
+
+<br>
+
+<table align="center" border="0" width="92%">
+<tr>
+<td align="left" width="50%">
+
+> **`💰` Advanced POS System**
+>
+> Next-gen Point of Sale platform on a microservices backbone — real-time inventory, analytics, RESTful APIs.
+>
+> `React` · `Node.js` · `MongoDB` · `Express` · `Docker`
+>
+> ![Live](https://img.shields.io/badge/%E2%97%8F%20PRODUCTION-00e5a0?style=flat-square&labelColor=00120a)
+
+</td>
+<td align="left" width="50%">
+
+> **`🎓` Interactive Learning Platform**
+>
+> AI-powered adaptive learning — personalised paths, edge-runtime, optimistic UI, progress analytics.
+>
+> `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma`
+>
+> ![Dev](https://img.shields.io/badge/%E2%97%8F%20IN%20DEVELOPMENT-ffaa00?style=flat-square&labelColor=120d00)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  SECTION 06 — 2026 MISSION BOARD  ← THE SHOWSTOPPER                -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<br>
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32">
+  &nbsp; 2026 Mission Board &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32">
+</h2>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   "I don't follow trends.  I build the systems that set them."               ║
+║                                                          — neroIJN, 2026     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor': '#ff6b6b', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#ff6b6b', 'lineColor': '#ffffff', 'secondaryColor': '#ff6b6b', 'tertiaryColor': '#282828'}}}%%
-graph TD
-    A[🎯 2024 Learning Roadmap] --> B[☁️ AWS Cloud Mastery]
-    A --> C[🤖 AI/ML Deep Dive]
-    A --> D[🏗️ System Design Patterns]
-    A --> E[⚡ Performance Optimization]
-    
-    B --> B1[Lambda Functions]
-    B --> B2[ECS/EKS Orchestration]
-    B --> B3[CloudFormation IaC]
-    
-    C --> C1[TensorFlow/PyTorch]
-    C --> C2[Computer Vision]
-    C --> C3[Natural Language Processing]
-    
-    D --> D1[Microservices Architecture]
-    D --> D2[Event-Driven Systems]
-    D --> D3[Distributed Databases]
-    
-    E --> E1[React Performance]
-    E --> E2[Database Optimization]
-    E --> E3[CDN & Caching Strategies]
+%%{init:{'theme':'base','themeVariables':{'primaryColor':'#120030','primaryTextColor':'#e9d5ff','primaryBorderColor':'#7b2fff','lineColor':'#a855f7','secondaryColor':'#0a001f','tertiaryColor':'#06000f','clusterBkg':'#0e0025','titleColor':'#c084fc','nodeTextColor':'#e9d5ff','edgeLabelBackground':'#06000f','fontFamily':'monospace'}}}%%
+graph LR
+    ME(["JANITH\nNIROSHAN\n2026"]):::core
+
+    ME --> ERP
+    ME --> DEVOPS
+    ME --> AI_ML
+    ME --> NET
+    ME --> SECURITY
+
+    subgraph ERP ["ERP ENGINEERING"]
+        direction TB
+        E1["React + Go\nFull-Stack ERP"]:::node1
+        E2["Microservices\nArchitecture"]:::node1
+        E3["Enterprise\nWorkflows"]:::node1
+        E1 --> E2 --> E3
+    end
+
+    subgraph DEVOPS ["AZURE DEVOPS"]
+        direction TB
+        D1["Azure Cloud\nInfrastructure"]:::node2
+        D2["CI/CD\nPipelines"]:::node2
+        D3["Kubernetes\n& Helm"]:::node2
+        D4["Terraform\nIaC"]:::node2
+        D1 --> D2 --> D3 --> D4
+    end
+
+    subgraph AI_ML ["AI / ML / MLOPS"]
+        direction TB
+        M1["MLOps\nPipelines"]:::node3
+        M2["Graph Attention\nNetworks"]:::node3
+        M3["Model\nDeployment"]:::node3
+        M1 --> M2 --> M3
+    end
+
+    subgraph NET ["NETWORK & WEB3"]
+        direction TB
+        N1["SDVN\nFundamentals"]:::node4
+        N2["Network\nArchitecture"]:::node4
+        N3["Blockchain\nProtocols"]:::node4
+        N1 --> N2 --> N3
+    end
+
+    subgraph SECURITY ["CYBER SECURITY"]
+        direction TB
+        S1["Threat\nModelling"]:::node5
+        S2["Penetration\nTesting"]:::node5
+        S3["Zero Trust\nSecurity"]:::node5
+        S1 --> S2 --> S3
+    end
+
+    classDef core fill:#3b0764,stroke:#a855f7,stroke-width:4px,color:#ffffff,font-weight:bold,font-size:14px
+    classDef node1 fill:#1e1035,stroke:#7b2fff,stroke-width:2px,color:#e9d5ff
+    classDef node2 fill:#001830,stroke:#0ea5e9,stroke-width:2px,color:#bae6fd
+    classDef node3 fill:#0f1f00,stroke:#84cc16,stroke-width:2px,color:#d9f99d
+    classDef node4 fill:#1f0f00,stroke:#f97316,stroke-width:2px,color:#fed7aa
+    classDef node5 fill:#1f0010,stroke:#ec4899,stroke-width:2px,color:#fbcfe8
 ```
 
-</div>
-
 <br>
 
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **Learning Progress Tracker**
+<table border="0" width="92%">
+<tr>
 
-| 🎯 **Skill Domain** | 📊 **Progress** | 🔥 **Current Focus** | 🚀 **Next Milestone** |
-|:---:|:---:|:---:|:---:|
-| **AWS Architecture** | ![90%](https://progress-bar.dev/90?color=ff6b6b) | Solutions Architect Cert | Pro-level certifications |
-| **Machine Learning** | ![75%](https://progress-bar.dev/75?color=4ecdc4) | Deep Learning Models | Production ML Systems |
-| **System Design** | ![85%](https://progress-bar.dev/85?color=45b7d1) | Distributed Systems | Chaos Engineering |
-| **DevOps Mastery** | ![80%](https://progress-bar.dev/80?color=f9ca24) | Kubernetes Advanced | Service Mesh Implementation |
+<td align="center" width="20%">
 
-</div>
+![ERP](https://img.shields.io/badge/ERP%20SYSTEM-React%20%2B%20Go-7b2fff?style=for-the-badge&labelColor=0a001f)
 
-<br>
+`React` `Golang` `PostgreSQL`
+`Microservices` `gRPC` `Docker`
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+**Status:** `In Progress`
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **CODING ANALYTICS & INSIGHTS**
+</td>
 
-<div align="center">
+<td align="center" width="20%">
 
-### **⏰ Weekly Development Breakdown**
-```text
-TypeScript   ████████████████████████████████████████   95.2% 
-Python       ███████████████████████████████████░░░░░   87.4%
-JavaScript   ██████████████████████████████░░░░░░░░░░   76.8%
-Go           ██████████████████████░░░░░░░░░░░░░░░░░░░   58.3%
-Java         ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░   42.1%
-CSS/SCSS     ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   31.7%
-```
+![DevOps](https://img.shields.io/badge/AZURE%20DEVOPS-Cloud%20Native-0ea5e9?style=for-the-badge&labelColor=001830)
 
-### **🔥 Productivity Metrics**
-![Commits](https://img.shields.io/badge/Total_Commits-2847-ff6b6b?style=for-the-badge&logo=github)
-![PRs](https://img.shields.io/badge/Pull_Requests-1247-4ecdc4?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/badge/Issues_Solved-847-45b7d1?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Repositories-127-f9ca24?style=for-the-badge&logo=github)
+`Azure` `Kubernetes` `Helm`
+`Terraform` `CI/CD` `Monitoring`
 
-</div>
+**Status:** `Actively Learning`
 
-<br>
+</td>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **CONTRIBUTION HEATMAP**
+<td align="center" width="20%">
 
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neroIJN&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true)
+![MLOps](https://img.shields.io/badge/MLOPS%20%2B%20GAT-AI%20Engineering-84cc16?style=for-the-badge&labelColor=0f1f00)
 
-</div>
+`MLOps` `Graph Attention Networks`
+`PyTorch` `Kubeflow` `MLflow`
 
-<div align="center">
-  
-  ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=neroIJN&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Status:** `Deep Dive`
 
-</div>
+</td>
 
-<br>
+<td align="center" width="20%">
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+![Network](https://img.shields.io/badge/SDVN%20%2B%20BLOCKCHAIN-Networks-f97316?style=for-the-badge&labelColor=1f0f00)
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **INSPIRATION & MOTIVATION**
+`SDVN` `SDN` `Smart Contracts`
+`DeFi` `Network Protocols`
 
-<div align="center">
+**Status:** `Researching`
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **Daily Mantras**
+</td>
 
-> *"First, solve the problem. Then, write the code."* – **John Johnson**
+<td align="center" width="20%">
 
-> *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
+![Security](https://img.shields.io/badge/CYBER%20SECURITY-Zero%20Trust-ec4899?style=for-the-badge&labelColor=1f0010)
 
-> *"The best error message is the one that never shows up."* – **Thomas Fuchs**
+`Threat Modelling` `Pen Testing`
+`Zero Trust` `SOC` `SIEM`
 
-### **🎧 Current Coding Playlist**
+**Status:** `Exploring`
 
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/neroijn)
+</td>
 
-**🔥 Now Playing**: *Lo-fi Hip Hop Beats - Synthwave Nights - Epic Coding Sessions*
+</tr>
+</table>
 
 </div>
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  SECTION 07 — WISDOM + CONNECT                                      -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<br>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **SPECIAL THANKS & ACKNOWLEDGMENTS**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="28">
 
-<div align="center">
+> ***"The engineers who shape the future aren't the ones who know the most tools —***
+> ***they're the ones who see the connections between them."***
 
-### **🙏 Grateful for the Journey**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="28">
 
-*Special thanks to the amazing developer community, open source contributors, and everyone who has supported my coding journey. Every star ⭐, fork 🍴, and collaboration has made me a better developer.*
+<br><br>
 
-### **☕ Fuel for Coding**
+### `./connect --all-channels`
 
-*Powered by endless cups of coffee, late-night coding sessions, and an insatiable curiosity to build amazing things.*
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_itz_nero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janith-niroshan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_itz_nero)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237b2fff.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+<br>
+
+*ERP systems · Cloud-native infra · AI/ML research · Blockchain · Cyber Security*
+<br>
+*If it lives at the intersection of these — let's talk.*
 
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=Let%27s%20Build%20The%20Future%20Together!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
-</div>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--  FOOTER                                                              -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<div align="center">
-
-### **🚀 Ready to Collaborate? Let's Connect!**
-
-*Whether you want to discuss cutting-edge tech, collaborate on exciting projects, or just chat about the latest developments in AI and cloud computing – I'm always excited to connect with fellow innovators!*
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/your-resume)
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> ***"Code with passion, debug with patience, and always keep learning!"*** <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25">
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0a001f,65:3b0764,100:7b2fff&height=200&section=footer&text=Building%20the%20Impossible%20%E2%80%94%20One%20System%20at%20a%20Time&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
